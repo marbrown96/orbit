@@ -1,0 +1,17 @@
+~/Projects/kindred/
+│
+├── app/                   ← your Expo (React Native) frontend
+│   ├── App.js
+│   ├── screens/
+│   ├── components/
+│   └── lib/               ← holds supabase.js and other helpers
+│
+├── backend/               ← (optional later) FastAPI or Flask backend
+│   ├── main.py
+│   └── requirements.txt
+│
+├── docs/                  ← designs, notes, roadmap, checklists
+│   └── mvp_plan.md
+│
+└── README.md
+
